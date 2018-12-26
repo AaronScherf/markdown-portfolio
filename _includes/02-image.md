@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Aaron Scherf](https://www.paynefellows.org/wp-content/uploads/2018/09/Aaron-300x215.jpg)
